@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-green {
+  background-color: #28a745;
+}
+.logo-white {
+  width: 120px;
+}
+.green {
+  color: #28a745;
+}
+.form-control {
+  width: 97%;
+}

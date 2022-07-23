@@ -80,3 +80,7 @@ footer {
   padding: 40px 0;
   background-color: #1e1a13;
 }
+a {
+  color: white;
+  text-decoration: none;
+}
